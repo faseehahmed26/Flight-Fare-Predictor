@@ -82,6 +82,7 @@ Arrival Time: Scheduled arrival time
 Departure Time: Scheduled departure time
 
 Project Structure
+```bash
 ├── Data_Train.xlsx      # Training dataset
 ├── Test_set.xlsx        # Testing dataset
 ├── app.py               # Flask application
@@ -90,6 +91,7 @@ Project Structure
 ├── static/              # CSS and static files
 ├── templates/           # HTML templates
 └── Flight Price Prediction.ipynb  # Main notebook
+```
 Future Improvements
 
 Incorporate international flight data
